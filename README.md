@@ -44,17 +44,3 @@ The application will be available at `http://127.0.0.1:5000`.
 | `/create_rule` | POST | Create a new rule |
 | `/evaluate_rule` | POST | Evaluate a rule against user data |
 | `/modify_rule` | POST | Modify an existing rule |
-
-## Usage
-
-### API Interaction
-You can interact with the API using:
-- REST clients like Postman
-- The provided web interface in `index.html`
-
-### Frontend Usage
-1. Open `index.html` in your web browser
-2. Use the provided forms to:
-   - Create new rules
-   - Evaluate rules against data
-   - Modify existing rules
