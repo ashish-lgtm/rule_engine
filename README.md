@@ -28,9 +28,6 @@ CREATE TABLE rules (
 );
 ```
 
-4. Configure the database connection:
-   - Update the database connection settings in `app.py` if necessary
-
 ## Running the Application
 
 Start the Flask application:
